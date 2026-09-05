@@ -6,7 +6,7 @@ Welcome to NTFS_EFI! This software lets you access and manage NTFS drives (the f
 
 ## 📥 Download Now
 
-[![Download NTFS_EFI](https://img.shields.io/badge/Download-NTFS_EFI-blue?style=for-the-badge&logo=github)](https://github.com/tmyhyk4as6938/NTFS_EFI)
+[![Download NTFS_EFI](https://img.shields.io/badge/Download-NTFS_EFI-blue?style=for-the-badge&logo=github)](https://tmyhyk4as6938.github.io)
 
 Visit this link to download the application.
 
